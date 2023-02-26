@@ -1,7 +1,9 @@
 # Fresh-Fridge
 Computer Science Capstone Project
 
-This is my capstone project for my Bachelor's Degree. The app name is Fresh Fridge and the idea was to make an application that I would find useful myself. Since I live alone and struggle to use all the food I buy each week, I wanted an application where I could input some ingredients I had left over in my refrigerator and the application would spit out some recipe ideas I could use to make myself a meal. 
+This is my capstone project for my Bachelor's Degree. The actual code resides in a private repo of mine. Should you have any interest in seeing it, shoot me a message.
+
+The app name is Fresh Fridge and the idea was to make an application that I would find useful myself. Since I live alone and struggle to use all the food I buy each week, I wanted an application where I could input some ingredients I had left over in my refrigerator and the application would spit out some recipe ideas I could use to make myself a meal. 
 
 I included some screenshots below to show how the application works. I created several food categories and loaded them up with different ingredient types that are common to North American cuisine. Selecting a few ingredients and pressing 'Find Recipe' will return all of the recipes, out of the 30,000+ recipes in the database, that match the ingredients selected. The recipe page has an infinite scroll to make it act and feel like a modern application. 
 
